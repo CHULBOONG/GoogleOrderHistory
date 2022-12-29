@@ -1,0 +1,8 @@
+<google_id>
+아이디@gmail.com
+<google_pw>
+비밀 번호
+<셀 색칠 컬러코드>
+D6D9DC
+<filename>
+구매내역
